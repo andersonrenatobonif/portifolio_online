@@ -1269,6 +1269,7 @@ input[type="radio"] + label:before {
     .image.main img {
       width: 100%; }
 
+
 a.image {
   overflow: hidden; }
   a.image img {
@@ -2209,6 +2210,9 @@ button,
   @media screen and (orientation: portrait) and (max-width: 480px) {
     #banner .image {
       max-height: 35vh; } }
+
+
+
 
 /* Footer */
 #footer .copyright {
